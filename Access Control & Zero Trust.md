@@ -1,4 +1,4 @@
-## Access Control, Authentication, and Authorization (AAA):
+## Authentication, and Authorization, Accounting (AAA):
 
 ## Access Control:
 - **Definition:**  This is the process of determining who can access specific resources and what actions they can perform. It involves defining rules and policies to regulate access.
@@ -8,11 +8,11 @@
 - **Definition:**  This is the process of verifying the identity of a user. It ensures that the person claiming to be a user is actually who they say they are.
 - **Application:**  Logging into a website using a username and password or biometric authentication (fingerprint, facial recognition).
 
-## Authorization::
+## Authorization:
 - **Definition:**  This is the process of determining what a verified user is permitted to do. It assigns specific privileges and permissions to authenticated users.
 - **Application:** A system administrator might have permission to create and delete user accounts, while a regular user can only access their own account.
 
-## Accountng:
+## Accounting:
 - **Definition:**  This is a process of tracking and analyzing system activities. It involves logging user actions, system events, and security incidents.
 - **Application:** Logging failed login attempts, successful file transfers, or security alerts.
 
