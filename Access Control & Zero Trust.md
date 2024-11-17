@@ -1,4 +1,4 @@
-## Access Control, Authentication, and Authorization:
+## Access Control, Authentication, and Authorization (AAA):
 
 ## Access Control:
 - **Definition:**  This is the process of determining who can access specific resources and what actions they can perform. It involves defining rules and policies to regulate access.
