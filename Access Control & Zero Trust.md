@@ -18,7 +18,10 @@
 
 ## Principle of Least Privilege:
  - This principle states that users should be granted only the minimum level of access necessary to perform their job functions. This helps to minimize the potential damage that can be caused by malicious actors or accidental mistakes.
-
+##
+- Discretionary Access Control (DAC): The owner of a resource determines who can access it and what permissions they have.
+- Mandatory Access Control (MAC): A central authority defines access rules based on security labels assigned to users and resources.
+- Role-Based Access Control (RBAC): Access is granted based on a user's role within an organization.
 
 ##
 **Zero Trust (ZT)**
