@@ -37,3 +37,7 @@
 - It provides secure access to applications and resources, regardless of user location or device. ZTNA focuses on:
    - Security: Protecting sensitive data and applications from unauthorized access.
    - Efficiency: Simplifying access management and improving user experience.
+
+ **Zero-trust access (ZTA) is made up of:** Identity and Access Management (IAM) and Network Access Control (NAC)
+ 
+  
