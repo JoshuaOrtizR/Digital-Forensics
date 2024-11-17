@@ -1,4 +1,4 @@
-## Cybersecurity Terminology:
+## CyberSecurity & Response Tools:
 
 ## SIEM (Security Information and Event Management)
 - **Definition:**  A SIEM solution collects, aggregates, analyzes, and correlates log data from various sources, such as network devices, servers, and applications.
