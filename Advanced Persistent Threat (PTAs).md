@@ -4,26 +4,26 @@ Those are sophisticated, long-lasting cyberattacks carried out by highly skilled
 
 **Functionality:**
 
-1 **Initial Access:**
+ **Initial Access:**
    * **Phishing:** Attackers send targeted emails with malicious attachments or links, tricking victims into clicking and downloading malware.
    * **Exploiting Vulnerabilities:** Attackers identify and exploit software vulnerabilities, such as unpatched systems or zero-day exploits.
    * **Brute-Force Attacks:** Attackers use automated tools to guess passwords and gain unauthorized access.
 
-2. **Persistence:** 
+ **Persistence:** 
    * **Backdoors:** Attackers install hidden backdoors to maintain access, even after security measures are implemented.
    * **Rootkits:** Attackers use rootkits to gain administrative privileges and hide their presence.
    * **Living-off-the-Land Binaries (LOLBins):** Attackers leverage legitimate system tools to execute malicious commands.
 
-3. **Lateral Movement:** 
+ **Lateral Movement:** 
    * **Network Mapping:** Attackers map the network to identify valuable targets.
    * **Privilege Escalation:** Attackers gain higher-level privileges to access sensitive systems.
    * **Credential Harvesting:** Attackers steal credentials to access additional accounts.
 
-4. **Data Exfiltration:** 
+ **Data Exfiltration:** 
    * **Data Theft:** Attackers steal sensitive data, such as intellectual property, financial information, or customer data.
    * **Data Destruction:** Attackers may destroy or corrupt data to cause disruption or damage.
 
-5. **Command and Control (C&C):**
+ **Command and Control (C&C):**
    * **Communication Channels:** Attackers establish covert communication channels to receive commands and send stolen data.
    * **C&C Servers:** Attackers use C&C servers to coordinate attacks and maintain persistence.
 
