@@ -28,5 +28,6 @@ techniques to collect, analyze, and interpret digital evidence, including:
     * **Methodology Documentation:** Clearly document all steps of the investigation, including the tools used, the techniques employed, and the assumptions made.
     * **Use standardized tools and techniques:** Employ industry-standard tools and techniques to ensure consistency.
     * **Maintain chain of custody:** Track the evidence from the time it is collected to the time it is presented in court.
-
-
+      
+### Affidavit
+- An affidavit can be a vital tool in any type of investigation, whether the investigation be forensic, internal, criminal, regulatory, incident response or otherwise. As an investigator gathers facts, he will often interview witnesses, also the investigator will take in accountability to make records of the interviews (written notes or even audio/video records). But sometimes it is prudent to take an additional step in securing what a witness has to say.(An Affidavit can justify a warrant)
