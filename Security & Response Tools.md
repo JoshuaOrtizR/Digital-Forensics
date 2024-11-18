@@ -1,5 +1,12 @@
 ## CyberSecurity & Response Tools🔎
 
+An intrusion detection system (IDS) is a device or software application that monitors a network for malicious activity or policy violations. Any malicious activity or violation is typically reported or collected centrally using a security information and event management system. Some IDS’s are capable of responding to detected intrusion upon discovery. These are classified as intrusion prevention systems (IPS).
+
+There is a wide array of IDS, ranging from antivirus software to tiered monitoring systems that follow the traffic of an entire network. The most common classifications are:
+
+- **Network intrusion detection systems (NIDS):** A system that analyzes incoming network traffic.
+- **Host-based intrusion detection systems (HIDS):** A system that monitors important operating system files.
+
 ## SIEM (Security Information and Event Management)
 - **Definition:**  A SIEM solution collects, aggregates, analyzes, and correlates log data from various sources, such as network devices, servers, and applications.
 - **Functionality:** To identify security threats and compliance violations by detecting anomalies and patterns in the log data.
