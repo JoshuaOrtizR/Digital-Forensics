@@ -9,40 +9,25 @@
 
  **Set Up the VM:** Create a virtual machine using your preferred virtualization software (e.g., VirtualBox, VMware). Install the Debian ISO image onto the VM.
  **Launch GParted:** Open GParted on your Windows computer.
- ![Step1](https://
-github.com
-/user-attachments/assets/6e5dc87f-b0c3-483b-b960-6e1bbf47b74c)
+ ![Step1](https://github.com/user-attachments/assets/6e5dc87f-b0c3-483b-b960-6e1bbf47b74c)
 
 **Identify the Drive:** Locate the drive corresponding to your VM. You can identify it by its size.
-![Step2](https://
-github.com
-/user-attachments/assets/caf60725-1436-4956-8a29-b344e87011f6)
-![Step3](https://
-github.com
-/user-attachments/assets/af575cc8-053c-4977-8f9d-84802727e744)
+![Step2](https://github.com/user-attachments/assets/caf60725-1436-4956-8a29-b344e87011f6)
+![Step3](https://github.com/user-attachments/assets/af575cc8-053c-4977-8f9d-84802727e744)
 
 **Resize the Partition:** Resize the existing partition to create unallocated space for the new partition.
-![Step4](https://
-github.com
-/user-attachments/assets/390f440f-8fc4-4f04-b759-a00c1f813682)
+![Step4](https://github.com/user-attachments/assets/390f440f-8fc4-4f04-b759-a00c1f813682)
 
-![Step5](https://
-github.com
-/user-attachments/assets/bcf16833-4337-4776-96b3-4d54bca4ce26)
+![Step5](https://github.com/user-attachments/assets/bcf16833-4337-4776-96b3-4d54bca4ce26)
 
 **Create a New Partition:** Create a new logical partition in the unallocated space.
 **Format the Partition:** Format the new partition with the ext4 file system.
-![6](https://
-github.com
-/user-attachments/assets/f8876923-d9ed-4dc5-8c2a-98ec5d546d2b)
-![7](https://
-github.com
-/user-attachments/assets/64100950-9070-4917-9668-8f5cdbdf1bc0)
+
+![6](https://github.com/user-attachments/assets/f8876923-d9ed-4dc5-8c2a-98ec5d546d2b)
+![7](https://github.com/user-attachments/assets/64100950-9070-4917-9668-8f5cdbdf1bc0)
 
 Finally, to save your changes, click on the green checkmark. Remember to format the file system as FAT32.
-![FinalStep](https://
-github.com
-/user-attachments/assets/131c59c0-39d7-4f8c-95b3-64e99233d5c1)
+![FinalStep](https://github.com/user-attachments/assets/131c59c0-39d7-4f8c-95b3-64e99233d5c1)
 
 
 **SecAdmin Notes:**
