@@ -1,4 +1,4 @@
-**My overview about POC, RCA, and IOFs**
+**My overview about POC, RCA, and IoCs**
 
 **POC:** Proof of Concept
 * A demonstration of the posibility of a particular idea or approach.
@@ -14,7 +14,7 @@
   - Inadequate security controls
   - Malicious activity
 
-**IOFs:** Indicators of Compromise
+**IoCs:** Indicators of Compromise
 * Specific evidence or artifacts that indicate a system or network has been compromised.
 * IOFs can take various forms, including:
   - Unusual network traffic
