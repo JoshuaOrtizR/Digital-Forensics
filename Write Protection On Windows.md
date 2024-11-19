@@ -18,12 +18,15 @@
 
 3. **Create a New DWORD Value:**
    - Right-click on the `StorageDevicePolicies` key and select **New** > **DWORD (32-bit) Value**.
+   - (Even you are using 64bit go with 32bit)
    - Name the new value **WriteProtect**.
 
 4. **Modify the Value Data:**
    - Double-click the `WriteProtect` value.
-   - Set the **Value data** to **0** (zero). 
+   - Set the **Value data** to **1** (one).
+   -  (1=True, 0=False)
    - Click **OK**.
+   
 
 5. **Restart Your Computer:**
    - Restart your computer for the changes to take effect.
