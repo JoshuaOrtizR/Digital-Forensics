@@ -18,13 +18,9 @@
    * Use the `fdisk -l` command to list all connected storage devices and their partitions.
    * The device will be labeled with a device name like `/dev/sdb1`.
 
-![1](https://
-github.com
-/user-attachments/assets/899d49ba-4ac2-4960-9453-de147dc7d732)
+![1](https://github.com/user-attachments/assets/899d49ba-4ac2-4960-9453-de147dc7d732)
 
-![2](https://
-github.com
-/user-attachments/assets/c35da7d7-a0ac-4f5a-8d0e-8975be7954dc)
+![2](https://github.com/user-attachments/assets/c35da7d7-a0ac-4f5a-8d0e-8975be7954dc)
 
 
 2. **Unmount the Device:**
@@ -34,13 +30,9 @@ github.com
      ```
    * Replace `/dev/sdb1` with the actual device name you identified.
 
-![3](https://
-github.com
-/user-attachments/assets/72270440-bb20-4416-a1d1-bef034636ede)
+![3](https://github.com/user-attachments/assets/72270440-bb20-4416-a1d1-bef034636ede)
 
-![4](https://
-github.com
-/user-attachments/assets/69278e19-f37e-4248-8bc6-e7bdc2d0c1a3)
+![4](https://github.com/user-attachments/assets/69278e19-f37e-4248-8bc6-e7bdc2d0c1a3)
 
 **Unmounting in Forensics:**
 
@@ -72,17 +64,13 @@ github.com
      * Replace `/dev/sdb1` with the actual device name and `/usb_mounted/` with your desired mount point.
      * The `-t vfat` option specifies the file system type (in this case, VFAT).
 
-![5](https://
-github.com
-/user-attachments/assets/acdfb40e-528d-4639-962e-d16dc4f5f9eb)
+![5](https://github.com/user-attachments/assets/acdfb40e-528d-4639-962e-d16dc4f5f9eb)
 
 **Verify the Mount:**
    * Use the `ls` command to list the contents of the mount point directory.
    * You should see the files and folders from the mounted device.
 
-![6](https://
-github.com
-/user-attachments/assets/f5275793-731a-4a42-9d93-362b5a383064)
+![6](https://github.com/user-attachments/assets/f5275793-731a-4a42-9d93-362b5a383064)
 
 **SecAdmin Notes:**
 
