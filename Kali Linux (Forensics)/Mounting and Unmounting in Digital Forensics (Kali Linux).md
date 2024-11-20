@@ -64,7 +64,9 @@
      * Replace `/dev/sdb1` with the actual device name and `/usb_mounted/` with your desired mount point.
      * The `-t vfat` option specifies the file system type (in this case, VFAT).
 
-![5](https://github.com/user-attachments/assets/acdfb40e-528d-4639-962e-d16dc4f5f9eb)
+![5](https://
+github.com
+/user-attachments/assets/acdfb40e-528d-4639-962e-d16dc4f5f9eb)
 
 **Verify the Mount:**
    * Use the `ls` command to list the contents of the mount point directory.
