@@ -1,10 +1,5 @@
 
-* **Drive Docks and Write Blockers:** Physical devices that secure digital evidence by preventing accidental or intentional modifications.
-* **Hash Value:** A unique digital fingerprint of data, used to verify data integrity.
-* **Mounting:** Making a storage device accessible to the operating system.
-* **Chain of Custody:** A documented, unbroken sequence of custody, control, transfer, analysis, and disposition of evidence.
-
-**How to Disable Write Protection on Windows:**
+**How to Enable Write Protection on Windows:**
 
 1. **Access Registry Editor:**
    - Press **Windows+R** to open the Run dialog.
@@ -48,5 +43,9 @@
 * **Hashing Evidence:** Before and after any analysis, hash the evidence to verify its integrity.
 * **Chain of Custody:** Maintain a detailed record of who has accessed the evidence and when.
 * **Forensic Software:** Use specialized forensic software to analyze evidence without modifying it.
+* **Drive Docks and Write Blockers:** Physical devices that secure digital evidence by preventing accidental or intentional modifications.
+* **Hash Value:** A unique digital fingerprint of data, used to verify data integrity.
+* **Mounting:** Making a storage device accessible to the operating system.
+* **Chain of Custody:** A documented, unbroken sequence of custody, control, transfer, analysis, and disposition of evidence.
 
 
