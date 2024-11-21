@@ -14,8 +14,6 @@ Before generating a report, you'll need to identify the evidence that you want t
 
 ![1](https://github.com/user-attachments/assets/89f32b59-2650-4fe9-98ef-691a07e11cb3)
 
-![2](https://github.com/user-attachments/assets/70a85c1c-d7ae-4c4f-aaa1-ee8a57e158ca)
-
 **Generating the Report**
 
 Once we've tagged our evidence, we can generate our report:
@@ -25,6 +23,8 @@ Once we've tagged our evidence, we can generate our report:
 3. **Review Settings:** Review the report settings (e.g., title, author, date) and click "Next."
 4. **Start the Generation:** Click "Finish" to initiate the report generation process.
 5. **View the Report:** Once the report is generated, you can access it under the "Reports" tab. Double-click the HTML report to open it in your web browser.
+
+![2](https://github.com/user-attachments/assets/70a85c1c-d7ae-4c4f-aaa1-ee8a57e158ca)
 
 ![3](https://github.com/user-attachments/assets/b335ed2f-1aae-4d52-93ec-f949cd997521)
 
