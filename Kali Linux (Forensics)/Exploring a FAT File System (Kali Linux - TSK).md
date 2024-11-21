@@ -28,9 +28,9 @@
 
 ![1](https://github.com/user-attachments/assets/9346e98c-5be2-49eb-9150-23a61e1d1dc2)
 
-**Practical Implications for Digital Forensics:**
+**SecAdmin Notes:**
 
-* **Evidence Recovery:** Understanding file systems and partition structures is crucial for recovering deleted files and other digital evidence.
+* **Evidence Recovery:** Understanding file systems and partition structures for recovering deleted files and other digital evidence.
 * **Investigating Malicious Activity:** By analyzing file system metadata and file contents, digital forensics experts can uncover evidence of cyberattacks, data breaches, and other malicious activities.
 * **Data Recovery:** In cases of data loss, knowledge of file systems can help recover valuable data.
 
