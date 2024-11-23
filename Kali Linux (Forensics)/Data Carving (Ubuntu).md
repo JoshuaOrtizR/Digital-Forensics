@@ -27,9 +27,13 @@ we're extracting a JPEG image from a disk image named `carving.dd`.
    - `grep JFIF carving.dd` finds the "JFIF" signature.
    - `grep -oba JFIF carving.dd` finds the offset of the signature, which is 4198406 bytes.
 
+![Capture](https://github.com/user-attachments/assets/5a4e0ee7-533b-4661-b6e2-659413d2a543)
+
 2. **Identify the JPEG End:**
    - `xxd carving.dd | grep D9 FF` finds the "FFD9" end signature.
    - We select the one closest to the start offset, which is at offset 4264096.
+
+![2](https://github.com/user-attachments/assets/6a80014b-da4a-42d6-a9c1-af091e6ed477)
 
 3. **Calculate File Size:**
    - The file size is 4264096 - 4198406 = 65690 bytes.
@@ -43,3 +47,6 @@ we're extracting a JPEG image from a disk image named `carving.dd`.
      ```bash
      dd if=carving.dd of=carved.jpg bs=512 skip=8200 count=128
      ```
+
+![3](https://github.com/user-attachments/assets/fbc41b74-dff6-4d16-917d-6f6196d240ac)
+
