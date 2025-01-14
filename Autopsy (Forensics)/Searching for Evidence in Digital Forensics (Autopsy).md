@@ -6,6 +6,7 @@ One of the fundamental tasks in digital forensics is searching for specific data
 **Setting Up the Case**
 
  **Create a New Case:** Start by creating a new case in Autopsy. Give it a name (e.g., '001') and choose a base directory.
+ 
  **Load the Image:** Next, load the disk image you want to analyze. Select the image file (e.g., 'usbimage.001') and follow the on-screen prompts.
 
 ![1](https://github.com/user-attachments/assets/5a5495a1-6837-4121-ab1e-8e3ac79106b2)
